@@ -1,0 +1,7 @@
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+public class Tarea {
+    public int TareaID { get; set; }
+    public string Descripcion { get; set; }
+    public int Duracion { get; set; } 
+}
